@@ -5,4 +5,6 @@ Gameplay is entirely unchanged. All text has been edited, along with a small num
 
 Translation is only written in sitelen Lasina. 
 
+No AI was used in the making of this romhack. 
+
 Patch is meant to apply to `Mega Man 2 (USA).nes`. 
